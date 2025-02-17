@@ -1,0 +1,41 @@
+[
+  {
+    "_id": {
+      "$oid": "662719fbc2cac047ced8fe3d"
+    },
+    "hotelId": {
+      "$oid": "66263526f50c2e548501f285"
+    },
+    "userId": {
+      "$oid": "6798d0afdbfc029e09d8ce59"
+    },
+    "rating": 3,
+    "review": "Great place to stay. Rooms were clean, the lawn was great. We loved all the amenities. The food seems to be on the higher rate side."
+  },
+  {
+    "_id": {
+      "$oid": "66271a5fc2cac047ced8fe3e"
+    },
+    "hotelId": {
+      "$oid": "66263526f50c2e548501f285"
+    },
+    "userId": {
+      "$oid": "67993483fdca1cc7d6ce5e74"
+    },
+    "rating": 4,
+    "review": "Great place to stay. Rooms were clean, the lawn was great. We loved all the amenities. The food seems to be on the higher rate side."
+  },
+  {
+    "_id": {
+      "$oid": "66271a7dc2cac047ced8fe3f"
+    },
+    "hotelId": {
+      "$oid": "66263526f50c2e548501f287"
+    },
+    "userId": {
+      "$oid": "6798d0afdbfc029e09d8ce59"
+    },
+    "rating": 5,
+    "review": "Great place to stay. Rooms were clean, the lawn was great. We loved all the amenities. The food seems to be on the higher rate side."
+  }
+]
